@@ -50,7 +50,7 @@ function App() {
             <div className="w-8 h-8 bg-blue-500 rounded flex items-center justify-center">
               <Code2 className="w-5 h-5" />
             </div>
-            <span className="text-lg font-semibold">Wenvel</span>
+            <span className="text-lg font-semibold">Wenvel e João Pedro</span>
           </div>
           <nav className="flex gap-8">
             <a href="#projetos" className="text-sm text-gray-400 hover:text-white transition-colors">Projetos</a>
@@ -81,7 +81,7 @@ function App() {
           </div>
           
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            Desenvolvedor Full Stack
+            Desenvolvedores Full Stack
           </h1>
           
           <p className="text-xl text-gray-400 mb-8 leading-relaxed">
@@ -239,7 +239,7 @@ function App() {
       {/* Footer */}
       <footer className="border-t border-white/10 py-8">
         <div className="max-w-6xl mx-auto px-6 text-center text-sm text-gray-500">
-          <p>• Futuro Engenheiro Mecânico</p>
+         
           <p className="text-gray-600 text-xs mt-2">© 2026 </p>
         </div>
       </footer>
